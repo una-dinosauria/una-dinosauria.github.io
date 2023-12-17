@@ -2,6 +2,8 @@
 My personal page
 
 # Changelog
+Dec 17, 2023
+* twitter -> threads
 
 Feb 14, 2021
 * Added 3 papers
